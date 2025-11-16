@@ -15,7 +15,4 @@
 </td>
   </tr>
 </table>
- <video width="320" height="240" controls>
-      <source src="F:\college\MAD\Screen_recording_20251116_104033.webm" type="video/mp4">
-      Your browser does not support the video tag
-</video>
+(https://raw.githubusercontent.com/Naisarg-patel/MAD_23012011066_Practical-6/main/path/to/video.mp4)
