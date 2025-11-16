@@ -57,6 +57,8 @@ Grouped together inside a `<set>` tag.
 ### 🔹 Edge-to-Edge Content Display
 
 <h1>Output:</h1>
+<h3>Video:</h3><p> https://drive.google.com/file/d/1bNcLapp7U2uZFwrILlhYUGsYoDlW9Je6/view?usp=drive_link </p>
+
 <table >
  <tr>
   <th>
@@ -68,9 +70,7 @@ Grouped together inside a `<set>` tag.
   <th>
       Dark Theme:
   </th>
-  <th>
-   Video:
-  </th>
+
  </tr>
   <tr>
    <td> <img width="370" height="660" alt="image" src="https://github.com/user-attachments/assets/babf47c9-98a0-4b4c-a814-53564236dd0a" />
@@ -79,9 +79,6 @@ Grouped together inside a `<set>` tag.
 </td>
     <td><img width="370" height="660" alt="image" src="https://github.com/user-attachments/assets/47f34f55-f798-451d-b599-0fc9475d8b55" />
 </td>
-   <td>
-    https://drive.google.com/file/d/1bNcLapp7U2uZFwrILlhYUGsYoDlW9Je6/view?usp=drive_link
-   </td>
   </tr>
 </table>
 
