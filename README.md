@@ -15,5 +15,5 @@
 </td>
   </tr>
 </table>
-[Watch Demo Video](https://github.com/Naisarg-patel/MAD_23012011066_Practical-6/blob/master/Screen_recording_20251116_104033.mp4?raw=true)
+![Demo](Screen_recording_20251116_104033.gif)
 
